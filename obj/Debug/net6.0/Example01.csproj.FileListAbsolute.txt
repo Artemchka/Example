@@ -1,0 +1,15 @@
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/bin/Debug/net6.0/Example01
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/bin/Debug/net6.0/Example01.deps.json
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/bin/Debug/net6.0/Example01.runtimeconfig.json
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/bin/Debug/net6.0/Example01.dll
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/bin/Debug/net6.0/Example01.pdb
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.csproj.AssemblyReference.cache
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.AssemblyInfoInputs.cache
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.AssemblyInfo.cs
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.csproj.CoreCompileInputs.cache
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.dll
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/refint/Example01.dll
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.pdb
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/Example01.genruntimeconfig.cache
+/Users/ArtemShiryaev/Desktop/Lesson/Examples/Example01/obj/Debug/net6.0/ref/Example01.dll
